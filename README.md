@@ -1,0 +1,4 @@
+rosalind
+========
+
+Rosalind bioinformatics exercises
